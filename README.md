@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Xuanbo Guo (郭宣伯)
+# 👋 Hi, I'm Xuanbo Guo
 
-🎓 **Master's Student @ Beihang University (BUAA)**  
+🎓 **Master's Student @ Beihang University**  
 _Major: Computer Science_  
 _Research Direction: Multimodal Information Fusion_  
 
